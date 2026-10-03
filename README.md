@@ -41,7 +41,7 @@ A 10,000 node workspace that computes per-voxel Patlaks from PET-CT scans.
 
 ## Windows
 
-Look in [releases](releases), pick a version, then download
+Look in [releases](https://github.com/libvips/nip4/releases), pick a version, then download
 (for example) `nip4-x64-9.1.5.zip` to get version 9.1.5 for x64 windows.
 
 Unzip somewhere and run `bin/nip4.exe`.
